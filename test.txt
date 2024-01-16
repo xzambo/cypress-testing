@@ -1,2 +1,0 @@
-Adding test line from mac
-# This is a test commit to see if the repo is working correctly 
